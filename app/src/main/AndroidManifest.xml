@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.testlich">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TestLich">
+        <activity
+            android:name=".AnswerShipActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AnswerSeagullsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AnswerLeavingTheHouseActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AnswerAtticActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AnswerBasementActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AnswerHouseActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AnswerPlateActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AnswerRiverActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AnswerDwarfActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AnswerSpringActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AnswerBearActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AnswerKeyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AnswerForestActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ListOfAnswersActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ShipActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SeagullsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LeaveActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BasementActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PlateActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RiverActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DwarfActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SpringActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BearActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KeyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ForestActivit"
+            android:exported="false"
+            android:label="@string/title_activity_main3"
+            android:theme="@style/Theme.TestLich.NoActionBar" />
+        <activity
+            android:name=".RulesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

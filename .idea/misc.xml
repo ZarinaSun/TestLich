@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.4185" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.4185" />
+        <entry key="app/src/main/res/layout/activity_answer_attic.xml" value="0.5765398550724637" />
+        <entry key="app/src/main/res/layout/activity_answer_basement.xml" value="0.5192708333333333" />
+        <entry key="app/src/main/res/layout/activity_answer_bear.xml" value="0.5765398550724637" />
+        <entry key="app/src/main/res/layout/activity_answer_dwarf.xml" value="0.5765398550724637" />
+        <entry key="app/src/main/res/layout/activity_answer_forest.xml" value="0.5765398550724637" />
+        <entry key="app/src/main/res/layout/activity_answer_house.xml" value="0.5192708333333333" />
+        <entry key="app/src/main/res/layout/activity_answer_key.xml" value="0.5765398550724637" />
+        <entry key="app/src/main/res/layout/activity_answer_leaving_the_house.xml" value="0.2874873353596758" />
+        <entry key="app/src/main/res/layout/activity_answer_plate.xml" value="0.5192708333333333" />
+        <entry key="app/src/main/res/layout/activity_answer_river.xml" value="0.5192708333333333" />
+        <entry key="app/src/main/res/layout/activity_answer_seagulls.xml" value="0.5911458333333334" />
+        <entry key="app/src/main/res/layout/activity_answer_ship.xml" value="0.5911458333333334" />
+        <entry key="app/src/main/res/layout/activity_answer_spring.xml" value="0.5765398550724637" />
+        <entry key="app/src/main/res/layout/activity_basement.xml" value="0.5765398550724637" />
+        <entry key="app/src/main/res/layout/activity_bear.xml" value="0.5192708333333333" />
+        <entry key="app/src/main/res/layout/activity_dwarf.xml" value="0.5192708333333333" />
+        <entry key="app/src/main/res/layout/activity_forest.xml" value="0.5765398550724637" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.5192708333333333" />
+        <entry key="app/src/main/res/layout/activity_key.xml" value="0.5192708333333333" />
+        <entry key="app/src/main/res/layout/activity_leave.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_list_of_answers.xml" value="0.5765398550724637" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.5052083333333334" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.5192708333333333" />
+        <entry key="app/src/main/res/layout/activity_main3.xml" value="0.5192708333333333" />
+        <entry key="app/src/main/res/layout/activity_main4.xml" value="0.5192708333333333" />
+        <entry key="app/src/main/res/layout/activity_main5.xml" value="0.5192708333333333" />
+        <entry key="app/src/main/res/layout/activity_main6.xml" value="0.5192708333333333" />
+        <entry key="app/src/main/res/layout/activity_mmain.xml" value="0.5192708333333333" />
+        <entry key="app/src/main/res/layout/activity_plate.xml" value="0.5192708333333333" />
+        <entry key="app/src/main/res/layout/activity_river.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/activity_rules.xml" value="0.5765398550724637" />
+        <entry key="app/src/main/res/layout/activity_seagulls.xml" value="0.5765398550724637" />
+        <entry key="app/src/main/res/layout/activity_ship.xml" value="0.5765398550724637" />
+        <entry key="app/src/main/res/layout/activity_spring.xml" value="0.5192708333333333" />
+        <entry key="app/src/main/res/layout/content_main3.xml" value="0.5765398550724637" />
+        <entry key="app/src/main/res/layout/fragment_first.xml" value="0.5765398550724637" />
+        <entry key="app/src/main/res/layout/fragment_second.xml" value="0.5765398550724637" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.4185" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.4185" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
